@@ -1,8 +1,8 @@
 Flutter BMI App
 
-I have started learning Flutter recently and this is my first app. It's a BMI calculator that allows you to input your gender, height as well as weight and provides you with your BMI. 
+This is a BMI calculator made with Flutter that allows you to input your gender, height as well as weight and provides you with your BMI. I used the design of Mr. Ruben Vaalt (https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 
-I used the design of Mr. Ruben Vaalt (https://dribbble.com/shots/4585382-Simple-BMI-Calculator). Really looking forward to learning more and designing better apps.
+Really looking forward to learning more and designing better apps.
 <pre>
        Initial page
 
